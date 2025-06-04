@@ -8,7 +8,7 @@
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 20.04 && reboot</code></pre>
 
 ### • INSTALL SCRIPT •
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/din-vpn/mix/main/main.sh && chmod +x main.sh && ./main.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Dinn001/mix/main/main.sh && chmod +x main.sh && ./main.sh
 ### • UPDATE SCRIPT •
 <pre><code>wget -q https://raw.githubusercontent.com/Sulastriii/mix/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
